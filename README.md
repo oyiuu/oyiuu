@@ -1,6 +1,8 @@
+<p align="center">
+    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=oyiuu&count_private=true&show_icons=true&theme=radical&custom_title=💤&hide_border=true"/>
+    <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=oyiuu&theme=radical&hide_border=true"/>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyiuu&count_private=true&show_icons=true&theme=radical&custom_title=💤)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oyiuu&theme=radical)](https://git.io/streak-stats)
 * * *
 <p align="center">Worked with:</p>
 <p align="center">
