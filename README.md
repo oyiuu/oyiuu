@@ -2,6 +2,10 @@
     <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=oyiuu&count_private=true&show_icons=true&theme=radical&custom_title=💤&hide_border=true"/>
     <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=oyiuu&theme=radical&hide_border=true"/>
 </p>
+* * *
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 * * *
 <p align="center">Worked with:</p>
@@ -16,3 +20,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" width="50" height="50"/>
 </p>
+
