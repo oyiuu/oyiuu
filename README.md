@@ -8,10 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java    16 mins         ████████████████████░░░░░   80.03 %
-Go      3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-JSON    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
