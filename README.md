@@ -1,6 +1,6 @@
 [<img align="left" alt="🦑" width="390" src="https://metrics.lecoq.io/oyiuu?template=classic&base.activity=0&base.community=0&base.repositories=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FBerlin">](#)
 
-<br><p align="right">
+<br><br><p align="right">
     <img alt="stats" width="390" src="https://github-readme-stats.vercel.app/api?username=oyiuu&count_private=true&show_icons=true&theme=radical&custom_title=💤&hide_border=true"/>
 
 <br><p align="right">
