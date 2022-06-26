@@ -1,10 +1,10 @@
-[<img align="left" alt="🦑" src="https://metrics.lecoq.io/oyiuu?template=classic&base.activity=0&base.community=0&base.repositories=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FBerlin">](#)
+[<img align="left" alt="🦑" width="390" src="https://metrics.lecoq.io/oyiuu?template=classic&base.activity=0&base.community=0&base.repositories=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FBerlin">](#)
 
 <br><p align="right">
-    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=oyiuu&count_private=true&show_icons=true&theme=radical&custom_title=💤&hide_border=true"/>
+    <img alt="stats" width="390" src="https://github-readme-stats.vercel.app/api?username=oyiuu&count_private=true&show_icons=true&theme=radical&custom_title=💤&hide_border=true"/>
 
 <br><br><br><p align="right">
-    <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=oyiuu&theme=radical&hide_border=true"/>
+    <img alt="streak" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=oyiuu&theme=radical&hide_border=true"/>
 </p>
 
 <br><br><br>
